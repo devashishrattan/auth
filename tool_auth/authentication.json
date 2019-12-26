@@ -1,0 +1,14 @@
+{
+    "ftpValidator": [
+        {
+            "connectivity": "True",
+            "counter": 1
+        }
+    ],
+    "selenium_test": [
+        {
+            "connectivity": "True",
+            "counter": 6
+        }
+    ]
+}
